@@ -4,6 +4,9 @@ Six Stars of Separation is a small experiment that tries to address the "[Six De
 
 The idea that motivated the original "Six Degrees" theory was that despite the enormous magnitude of the human population, societies tend to be so intertwined that within only six steps you can connect any two people. Since GitHub is kind of a world unto itself, we thought it might be interesting to extend this idea to the GitHub user graph.
 
+
+<video src="https://github.com/user-attachments/assets/ae4a92d8-e127-4eb9-bc05-0a0588aeeb6e" controls muted playsline></video>
+
 ## Try It
 
 Live site: [six-stars.hesreallyhim.com](https://six-stars.hesreallyhim.com/)
@@ -35,4 +38,4 @@ Please use GitHub Issues for:
 
 ---
 
-This project was authored by @hesreallyhim and OpenAI's Codex. It is not endorsed or affiliated with GitHub.
+This project was authored by @hesreallyhim and OpenAI's Codex. It is not endorsed by or affiliated with GitHub.
